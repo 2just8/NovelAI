@@ -1,0 +1,2 @@
+# NovelAI
+NovelAI from GoogleDrive
